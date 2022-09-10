@@ -1,7 +1,7 @@
 
 <p align="center"><img src="/test/logo.png" width="622"></p>
 
-[![Build Status](https://travis-ci.org/leavez/cocoapods-binary.svg?branch=master)](https://travis-ci.org/leavez/cocoapods-binary)
+[![Build Status](https://travis-ci.org/rbrovko/cocoapods-binary.svg?branch=master)](https://travis-ci.org/rbrovko/cocoapods-binary)
 
 A CocoaPods plugin to integrate pods in form of prebuilt frameworks, not source code, by adding **just one flag** in podfile. Speed up compiling dramatically.
 
